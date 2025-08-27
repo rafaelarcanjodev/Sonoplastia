@@ -6,4 +6,4 @@ Para a execução dos sons foi utilizado o .play .pause nativo do js. Inclusive,
 Tecnologias
 - Javascript - Html - Css
 
-**Link para Acesso:** https://rafarcanjoatos.github.io/Sonoplastia/
+**Link para Acesso:** https://rafaelarcanjodev.github.io/Sonoplastia/
